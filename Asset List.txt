@@ -1,11 +1,8 @@
-﻿Water Physics and Animation
-
+Water Physics and Animation
 
 1> Fluvio- https://assetstore.unity.com/packages/tools/particles-effects/fluvio-free-2888
 
-
 Water Guns/Weaponry
-
 
 1>  https://grabcad.com/library/super-watergun-2000-1
 2> https://grabcad.com/library/watergun-1
@@ -13,9 +10,7 @@ Water Guns/Weaponry
 4> https://grabcad.com/library/water-gun-4
 5> https://grabcad.com/library/monitoring-gun-1
 
-
 Maps and Environment
-
 
 1> https://assetstore.unity.com/packages/3d/props/exterior/super-beach-pack-39084
 2> https://assetstore.unity.com/packages/3d/props/industrial/pipe-kit-pbr-101450
@@ -41,9 +36,6 @@ Maps and Environment
 
 
 
-
-
-
 Character Models
 1> https://assetstore.unity.com/packages/3d/characters/robots/space-robot-kyle-4696
 2> https://assetstore.unity.com/packages/3d/vegetation/yughues-free-stylized-foliages-13392
@@ -52,7 +44,6 @@ Character Models
 5> (Potentially Better Cyberman) https://sketchfab.com/models/a6d4bcdcfeb147fbb290822dc17fc3ba
 6> (Jenny) https://sketchfab.com/models/f39a2a6fa7324e09bedea12ad508099f#
 7> 
-
 
 Textures
 1>(Sidewalk pavement) http://texturelib.com/texture/?path=/Textures/brick/pavement/brick_pavement_0126
@@ -68,3 +59,12 @@ http://texturelib.com/texture/?path=/Textures/water/water/water_water_0076
 8> (metal) http://texturelib.com/texture/?path=/Textures/metal/base/metal_base_0076
 9> (metal) http://www.16sucai.com/2016/09/91236.html
 10> (metal) https://darknouva.artstation.com/projects/2vA9B
+11> (bark) http://2.bp.blogspot.com/-cgMIsh6MNho/UOsCYA7Xq1I/AAAAAAAAAp0/d7ZVbXA6XHU/s1600/Oak_Bark.jpg
+12> (metal) http://texturelib.com/texture/?path=/Textures/metal/bare/metal_bare_0051
+13> (metal) http://texturelib.com/texture/?path=/Textures/metal/bare/metal_bare_0045
+14> (water) http://texturelib.com/texture/?path=/Textures/water/water/water_water_0056
+15> (water) https://grannysatticstock.deviantart.com/art/water-texture-93243593
+16> (water) http://www.genoabeh2o.com/?attachment_id=288
+17> (wood) https://www.freepik.com/free-vector/wood-texture_849626.htm
+
+
